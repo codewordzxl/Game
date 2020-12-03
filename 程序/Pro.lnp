@@ -1,0 +1,6 @@
+"main.obj",
+"oled.obj",
+"Game.obj",
+"Delay.obj" 
+TO "Pro" 
+RAMSIZE(256) 
