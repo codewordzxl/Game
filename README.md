@@ -30,6 +30,7 @@ IIC接口的OLED屏
 
 
 正面图
-![image](https://github.com/codewordzxl/Game/blob/master/正面图.jpg)
+
+![image](https://github.com/codewordzxl/Image/blob/master/1.jpg)
 
 
