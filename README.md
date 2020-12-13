@@ -41,10 +41,6 @@ IIC接口的OLED屏
 
 
 
-**演示视频**
-
-https://mp.weixin.qq.com/cgi-bin/appmsg?begin=0&count=10&action=list_video&type=15&token=993229893&lang=zh_CN
-
 
 
 
