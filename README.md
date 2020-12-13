@@ -16,6 +16,8 @@ IIC接口的OLED屏
 
 3、乒乓球
 
+**演示视频**
+https://www.bilibili.com/video/BV1WT4y1M7bx
 
 
 **规则：**
@@ -41,6 +43,8 @@ IIC接口的OLED屏
 
 
 
+立创EDA工程：
+https://oshwhub.com/zxl0/shuang-ren-dui-zhan-zhi-neng-you-hu-ji
 
 
 
