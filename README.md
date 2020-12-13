@@ -28,11 +28,23 @@ IIC接口的OLED屏
 
 **乒乓球：**由上下键控制挡板上下移动，将球挡回；若有玩家未将球挡回，则判定另一玩家获胜。
 
-
-正面图
-![](Image/2.jpg)
+**正面图**
 ![](Image/1.jpg)
-![Image](Image/1.jpg)
+**背面图**
+![](Image/2.jpg)
+
+**原理图**
+![](Image/3.png)
+
+**PCB图**
+![](Image/4.png)
+
+
+
+**演示视频**
+
+https://mp.weixin.qq.com/cgi-bin/appmsg?begin=0&count=10&action=list_video&type=15&token=993229893&lang=zh_CN
+
 
 
 
